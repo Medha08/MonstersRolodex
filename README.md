@@ -1,2 +1,0 @@
-# MonstersRolodex
-Created with CodeSandbox
